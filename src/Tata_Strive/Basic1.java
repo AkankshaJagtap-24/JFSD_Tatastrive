@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package Tata_Strive;
 
 public class Basic1 {
     public static void main(String args[]){
@@ -117,9 +117,23 @@ short 2 byte  0
 
 
 
+
+
+
    */
 
 
+//        String name = "Akanksha .";
+//        String address = "Sumitra Building , Sainath Nagar , Thane .";
+//        float finalmarks = 78.04f; //percentage
+//        char location = 'T'; // T indicates Thane
+//        System.out.println("My name is " + " " + name);
+//        System.out.println("My address is " + " " + address);
+//        System.out.println("My finalyear pecentage  " + " " + finalmarks + "%");
+//        System.out.println("My location is " + " " + location + " " + "indicates Thane");
+//
+//
+//
 
 
 
